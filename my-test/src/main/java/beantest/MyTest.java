@@ -41,5 +41,6 @@ public class MyTest {
 		TestBean testBean = (TestBean) defaultListableBeanFactory.getBean("testBean");
 		testBean.setBeanName("Yes");
 		System.out.println(testBean);
+
 	}
 }
