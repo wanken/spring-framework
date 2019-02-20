@@ -64,7 +64,7 @@
 				<xsd:element ref="beans:ref">
 					<xsd:annotation>
 						<xsd:documentation source="org.springframework.web.socket.server.HandshakeInterceptor"><![CDATA[
-	A reference to a HandshakeInterceptor bean.
+	A reference to a HandshakeInterceptor beantest.
                     ]]></xsd:documentation>
 					</xsd:annotation>
 				</xsd:element>
@@ -100,7 +100,7 @@
 							<xsd:element ref="beans:ref">
 								<xsd:annotation>
 									<xsd:documentation><![CDATA[
-	A reference to a TransportHandler bean.
+	A reference to a TransportHandler beantest.
                         ]]></xsd:documentation>
 								</xsd:annotation>
 							</xsd:element>
@@ -481,7 +481,7 @@
 				<xsd:element ref="beans:ref">
 					<xsd:annotation>
 						<xsd:documentation><![CDATA[
-	A reference to a ChannelInterceptor bean.
+	A reference to a ChannelInterceptor beantest.
                         ]]></xsd:documentation>
 					</xsd:annotation>
 				</xsd:element>
@@ -587,7 +587,7 @@
 											<xsd:element ref="beans:ref">
 												<xsd:annotation>
 													<xsd:documentation source="org.springframework.web.socket.handler.WebSocketHandlerDecoratorFactory"><![CDATA[
-	A reference to a WebSocketHandlerDecoratorFactory bean.
+	A reference to a WebSocketHandlerDecoratorFactory beantest.
                     ]]></xsd:documentation>
 												</xsd:annotation>
 											</xsd:element>
@@ -847,7 +847,7 @@
 								<xsd:element ref="beans:ref">
 									<xsd:annotation>
 										<xsd:documentation><![CDATA[
-	A reference to an HttpMessageConverter bean.
+	A reference to an HttpMessageConverter beantest.
 										]]></xsd:documentation>
 									</xsd:annotation>
 								</xsd:element>

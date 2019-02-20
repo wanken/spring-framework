@@ -146,7 +146,7 @@
 			<xsd:attribute name="connection-factory" type="xsd:string" default="connectionFactory">
 				<xsd:annotation>
 					<xsd:documentation><![CDATA[
-	A reference to the JMS ConnectionFactory bean.
+	A reference to the JMS ConnectionFactory beantest.
 	Default is "connectionFactory".
 					]]></xsd:documentation>
 					<xsd:appinfo>
